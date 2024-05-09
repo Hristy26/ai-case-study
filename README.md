@@ -21,7 +21,7 @@ Caterpillar leverages its global reach into three primary segments: Construction
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Caterpillar is a well-established, recognized brand, globally, 100 years in the making.  Caterpillars’ reputation for quality, reliability, and innovation provides a competitive advantage that competitors would need time to establish.  
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-•	Use of autonomous and AI technologies in mining trucks and other heavy equipment, machine learning, virtual reality, digital twins, and data analytics that contribute to safer and more efficient operation of heavy equipment. Not only for autonomy and remote solutions, AI to be used for safety measures, and customers will be able to engage through digital tools and e-commerce services.
+•	Use of autonomous and AI technologies in mining trucks and other heavy equipment, machine learning, virtual reality, digital twins, and data analytics that contribute to safer and more efficient operation of heavy equipment. Not only for autonomy and remote solutions, AI to be used for safety measures, and customers will be able to engage through digital tools and e-commerce services. Programs such as, C/C++: These languages are often used for low-level programming, especially for embedded systems and device drivers. Java: Caterpillar may use Java for developing enterprise applications, web services, and Android mobile applications.  Python: Python is popular for data analysis, automation, and scripting tasks. Caterpillar might use Python for various purposes such as data processing, simulation, and machine learning.  MATLAB: MATLAB is widely used in engineering and scientific applications for numerical computing and data analysis. Caterpillar may use MATLAB for simulations, optimization, and control systems.  PLC Programming (e.g., ladder logic): Programmable Logic Controllers (PLCs) are commonly used in industrial automation and control systems. Caterpillar likely uses PLC programming languages such as ladder logic for controlling manufacturing processes and machinery. SQL: Caterpillar probably uses SQL (Structured Query Language) for managing and querying databases that store manufacturing, inventory, and customer data.
 ## Landscape
 
 * What field is the company in?
@@ -52,12 +52,13 @@ Caterpillar Inc.’s Net Income in the 1 quarter 2024 grew year on year by 46.96
 * What technologies would this additional product or service utilize?
 AI and ML, not only for operation of equipment, but for analyzing soil composition and equipment performance, even operators physical scan for safe operations.
 * Why are these technologies appropriate for your solution?
-The construction industry built our civilization, impowering it with technology will only keep it thriving and safe.
+The construction industry built our civilization, impowering it with technology will only keep it thriving, safe and keeping up to speed with growth.
 ## References 
 https://www.caterpillar.com/en.html
 https://en.wikipedia.org/wiki/Caterpillar_Inc.
 https://www.caterpillar.com/en/company/history/history-timeline.html
 https://s25.q4cdn.com/358376879/files/doc_financials/2024/q1/1Q-2024-Analyst-Slide-Deck_Final-1.pdf
+https://chatgpt.com/c/710f7f26-74c8-4695-ab36-ff4fcbf49886
 https://www.caterpillar.com/en/news/corporate-press-releases/h/1q24-results-caterpillar-inc.html
 https://businessmodelanalyst.com/caterpillar-business-model/
 https://fintel.io/so/us/cat#:~:text=Institutional%20Ownership%20and%20Shareholders,a%20total%20of%20395%2C921%2C273%20shares.
