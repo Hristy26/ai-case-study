@@ -2,16 +2,16 @@
 
 ## Overview and Origin
 
-* Caterpillar INC.
+* Caterpillar Inc.
 
 * When was the company incorporated?
-April 15, 1925
+ April 15, 1925
 * Who are the founders of the company?
 Clarence Leo (C.L.) Best and Benjamin Holt
 * How did the idea for the company (or project) come about?
 In 1890, Benjamin Holt owned a manufacturing company and was also the inventor who invented the steam tractor, keeping farmers more productive by working longer and inexpensively.  C.L. Best owned a tractor company specializing in gas engines, he also developed a revolutionary undercarriage design that was so ahead of its time. He developed a track to replace the round wheels of the tractors, which that design remains part of today’s Caterpillar tractor DNA. 
 * How is the company funded? How much funding have they received?
-In 1925, the two companies decided to merge to form the Caterpillar Tractor Company. Both Best and Holt had established companies with industry and domestic investors. After the WWII and in order for both companies to survive the economic downfall of the ware, the merger took place and provided the company with funds and technological resources to invest in diesel technology to provide customers with more economic horsepower. Today, Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives, with revenues of $67.1Billion. 
+In 1925, the two companies to merged to form the Caterpillar Tractor Company. Both, Best and Holt had established companies with industry however, after the WWII, in order for both companies to survive the economic downfall of the war, the merger took place and provided the company with funds and technological resources to invest in diesel technology to provide customers with more economic horsepower. Today, Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives, with revenues of $67.1Billion, 3647 institutional owners and shareholders that have filed 13D/G or 13F forms with the Securities Exchange Commission (SEC). These institutions hold a total of 395,921,273 shares. 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
@@ -53,3 +53,13 @@ Caterpillar Inc.’s Net Income in the 1 quarter 2024 grew year on year by 46.96
 AI and ML, not only for operation of equipment, but for analyzing soil composition and equipment performance, even operators physical scan for safe operations.
 * Why are these technologies appropriate for your solution?
 The construction industry built our civilization, impowering it with technology will only keep it thriving and safe.
+## References 
+https://www.caterpillar.com/en.html
+https://en.wikipedia.org/wiki/Caterpillar_Inc.
+https://www.caterpillar.com/en/company/history/history-timeline.html
+https://s25.q4cdn.com/358376879/files/doc_financials/2024/q1/1Q-2024-Analyst-Slide-Deck_Final-1.pdf
+https://www.caterpillar.com/en/news/corporate-press-releases/h/1q24-results-caterpillar-inc.html
+https://businessmodelanalyst.com/caterpillar-business-model/
+https://fintel.io/so/us/cat#:~:text=Institutional%20Ownership%20and%20Shareholders,a%20total%20of%20395%2C921%2C273%20shares.
+https://www.mbaskool.com/competitors/companies/18594-caterpillar.html
+https://harbert.auburn.edu/binaries/documents/center-for-ethical-organizational-cultures/cases/caterpillar.pdf
