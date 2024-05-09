@@ -38,7 +38,7 @@ Komatsu.
 ## Results
 
 * What has been the business impact of this company so far?
-  On the average, Caterpillar annual revenue has increased on the average of 13% in the last 3 years.
+ Caterpillar's business impact extends across multiple dimensions, including its contribution to infrastructure development, economic growth, job creation, technological innovation, and financial markets. Global presence, market leadership, Economic impact, job creation and Technological innovation, financial performance.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Quality customer, employee satisfaction, producing a quality product and gaining customer trust.  s Although Customer/employee satisfaction, delivery performance, and process improvement, the predominant measure is the efficiency ratio of direct labor hours/machine hours.
 * How is your company performing relative to competitors in the same field?
