@@ -45,10 +45,11 @@ Quality customer, employee satisfaction, producing a quality product and gaining
 Caterpillar Inc.’s Net Income in the 1 quarter 2024 grew year on year by 46.96%, while most of its competitors have experienced a contraction in net income by -10.55 %.
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)C
+* Caterpillar Inc is already on the innovation path.  As new technologies emerge, caterpillar will embrace. Human knowledge in AI and ML programing, ethics and technology would continue benefit this company.
 * Why do you think that offering this product or service would benefit the company?
-
+•	Technology skills are an important part of any skill trade.  Caterpillar may benefit by implementing technological bootcamp for operation and for development, or a tech trade school.
 * What technologies would this additional product or service utilize?
-
+AI and ML, not only for operation of equipment, but for analyzing soil composition and equipment performance, even operators physical scan for safe operations.
 * Why are these technologies appropriate for your solution?
+The construction industry built our civilization, impowering it with technology will only keep it thriving and safe.
