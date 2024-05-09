@@ -45,7 +45,7 @@ Komatsu.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Although Caterpillar uses such figures as customer/employee satisfaction, delivery performance, and process improvement, the predominant measure is the efficiency ratio of direct labor hours/machine hours
 * How is your company performing relative to competitors in the same field?
-
+Caterpillar IncNet Income in the 1 quarter 2024 grew year on year by 46.96%, while most of its competitors have experienced a contraction in net income by -10.55 %.
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
