@@ -16,21 +16,28 @@ Today, Caterpillar Inc. is the world’s leading manufacturer of construction an
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-
+ Innovation and focus on renewable and alternative energy development and energy access, specifically through microgrid technology, solar panels and energy storage systems. 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
-
+Caterpillar leverages its global reach through strategic market segmentation. They divide their operations into three primary segments: Construction Industries, Resource Industries, and Energy & Transportation. Each segment focuses on specific customer demands and offers targeted solutions.Feb 24, 2024
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+Use of autonomous and AI technologies in mining trucks and other heavy equipment, machine learning, virtual reality, digital twins, and data analytics that contribute to safer and more efficient operation of heavy equimpment.
 ## Landscape
 
 * What field is the company in?
-
+Construction, mining, energy and rail.
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
+Lower-Carbon-Intensity Fuels.
+Power Generation Technology.
+Automation, remote control, and autonomy, which provide a range of features from operator assist to full autonomous operation.
 * What are the other major companies in this field?
-
+John Deere.
+Mitsubishi.
+Mahindra & Mahindra.
+Siemens.
+JCB.
+Komatsu.
 ## Results
 
 * What has been the business impact of this company so far?
