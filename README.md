@@ -11,7 +11,8 @@ C.L. Best and Benjamin Holt
 * How did the idea for the company (or project) come about?
 Benjamin Holt owned a manufactureing company and was also invented a steam tractor in 1890 to keep farmers working and more productive longer and cheaper.  C.L. Best owend a tractor company and also developed a revolutionary undercarriage design was so ahead of its time that some of the features remain part of today’s Caterpillar tractor DNA.  .  
 * How is the company funded? How much funding have they received?
-In 1925, the two companies decided to merge to form the Caterpillar Tractor Company. The merger provided the company with funds and technological resources to invest in diesel technology to provide customers with more economical horsepower. 
+In 1925, the two companies decided to merge to form the Caterpillar Tractor Company. The merger provided the company with funds and technological resources to invest in diesel technology to provide customers with more economical horsepower.
+Today, Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives, with revenues of $67.1Billion.
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
